@@ -1,0 +1,4 @@
+ffmpeg
+libmariadb-dev-compat
+libmariadb-dev
+pkg-config
